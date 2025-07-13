@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="17" passed="17" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-07-13T02:53:59 IST" name="Suite" finished-at="2025-07-13T02:57:03 IST" duration-ms="184023">
+    <groups>
+    </groups>
+    <test started-at="2025-07-13T02:53:59 IST" name="Test1" finished-at="2025-07-13T02:57:03 IST" duration-ms="184023">
+      <class name="TestCases.LoginTestCase__002">
+        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String)[pri:0, instance:TestCases.LoginTestCase__002@49139829]" started-at="2025-07-13T02:54:27 IST" name="setUp" finished-at="2025-07-13T02:54:34 IST" duration-ms="6278" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="LoginAccount()[pri:0, instance:TestCases.LoginTestCase__002@49139829]" started-at="2025-07-13T02:54:34 IST" name="LoginAccount" finished-at="2025-07-13T02:54:43 IST" duration-ms="9294" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginAccount -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestCases.LoginTestCase__002@49139829]" started-at="2025-07-13T02:54:43 IST" name="tearDown" finished-at="2025-07-13T02:54:43 IST" duration-ms="314" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestCases.LoginTestCase__002 -->
+      <class name="TestCases.SearchProduct_004">
+        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String)[pri:0, instance:TestCases.SearchProduct_004@6069db50]" started-at="2025-07-13T02:56:37 IST" name="setUp" finished-at="2025-07-13T02:56:45 IST" duration-ms="8068" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="OrderOneProduct()[pri:0, instance:TestCases.SearchProduct_004@6069db50]" started-at="2025-07-13T02:56:45 IST" name="OrderOneProduct" finished-at="2025-07-13T02:57:03 IST" duration-ms="17829" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OrderOneProduct -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestCases.SearchProduct_004@6069db50]" started-at="2025-07-13T02:57:03 IST" name="tearDown" finished-at="2025-07-13T02:57:03 IST" duration-ms="398" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestCases.SearchProduct_004 -->
+      <class name="TestCases.Login_DDT_003">
+        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String)[pri:0, instance:TestCases.Login_DDT_003@9597028]" started-at="2025-07-13T02:54:43 IST" name="setUp" finished-at="2025-07-13T02:54:50 IST" duration-ms="6777" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verfiy_Login_DDT(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:TestCases.Login_DDT_003@9597028]" started-at="2025-07-13T02:54:53 IST" name="verfiy_Login_DDT" data-provider="LoginData" finished-at="2025-07-13T02:55:03 IST" duration-ms="10804" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[HSsFMIJAl@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[SoxLphmvu]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[valid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verfiy_Login_DDT -->
+        <test-method signature="verfiy_Login_DDT(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:TestCases.Login_DDT_003@9597028]" started-at="2025-07-13T02:55:03 IST" name="verfiy_Login_DDT" data-provider="LoginData" finished-at="2025-07-13T02:55:12 IST" duration-ms="8087" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ldaBiAWBb@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[KAurNrPsf]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[valid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verfiy_Login_DDT -->
+        <test-method signature="verfiy_Login_DDT(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:TestCases.Login_DDT_003@9597028]" started-at="2025-07-13T02:55:12 IST" name="verfiy_Login_DDT" data-provider="LoginData" finished-at="2025-07-13T02:55:18 IST" duration-ms="6645" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[XjlXYesSV@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ycSvUjyUs]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[valid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verfiy_Login_DDT -->
+        <test-method signature="verfiy_Login_DDT(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:TestCases.Login_DDT_003@9597028]" started-at="2025-07-13T02:55:18 IST" name="verfiy_Login_DDT" data-provider="LoginData" finished-at="2025-07-13T02:55:26 IST" duration-ms="7922" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[hEgoNegiD@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[lZcpNpCIg]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[valid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verfiy_Login_DDT -->
+        <test-method signature="verfiy_Login_DDT(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:TestCases.Login_DDT_003@9597028]" started-at="2025-07-13T02:55:26 IST" name="verfiy_Login_DDT" data-provider="LoginData" finished-at="2025-07-13T02:55:32 IST" duration-ms="6006" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Rnlvncwbf@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[xeBbbgpve]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[valid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verfiy_Login_DDT -->
+        <test-method signature="verfiy_Login_DDT(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:TestCases.Login_DDT_003@9597028]" started-at="2025-07-13T02:55:32 IST" name="verfiy_Login_DDT" data-provider="LoginData" finished-at="2025-07-13T02:55:40 IST" duration-ms="7548" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[oXvtKPMDZ@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[xUrYEPLla]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[valid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verfiy_Login_DDT -->
+        <test-method signature="verfiy_Login_DDT(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:TestCases.Login_DDT_003@9597028]" started-at="2025-07-13T02:55:40 IST" name="verfiy_Login_DDT" data-provider="LoginData" finished-at="2025-07-13T02:55:46 IST" duration-ms="6586" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TsHiGSYBb@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[BbJyIpRjR]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[valid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verfiy_Login_DDT -->
+        <test-method signature="verfiy_Login_DDT(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:TestCases.Login_DDT_003@9597028]" started-at="2025-07-13T02:55:46 IST" name="verfiy_Login_DDT" data-provider="LoginData" finished-at="2025-07-13T02:55:53 IST" duration-ms="6449" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[IrMiDHims@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[jGWNmKFOK]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[valid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verfiy_Login_DDT -->
+        <test-method signature="verfiy_Login_DDT(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:TestCases.Login_DDT_003@9597028]" started-at="2025-07-13T02:55:53 IST" name="verfiy_Login_DDT" data-provider="LoginData" finished-at="2025-07-13T02:56:00 IST" duration-ms="7467" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[QsqgiJrxA@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ZLVvhZUga]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[valid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verfiy_Login_DDT -->
+        <test-method signature="verfiy_Login_DDT(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:TestCases.Login_DDT_003@9597028]" started-at="2025-07-13T02:56:00 IST" name="verfiy_Login_DDT" data-provider="LoginData" finished-at="2025-07-13T02:56:07 IST" duration-ms="6654" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[JmoGxGMNp@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[bZeVpfrWm]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[valid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verfiy_Login_DDT -->
+        <test-method signature="verfiy_Login_DDT(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:TestCases.Login_DDT_003@9597028]" started-at="2025-07-13T02:56:07 IST" name="verfiy_Login_DDT" data-provider="LoginData" finished-at="2025-07-13T02:56:15 IST" duration-ms="7907" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[njEymxQfR@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ewJrlQlnv]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[valid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verfiy_Login_DDT -->
+        <test-method signature="verfiy_Login_DDT(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:TestCases.Login_DDT_003@9597028]" started-at="2025-07-13T02:56:15 IST" name="verfiy_Login_DDT" data-provider="LoginData" finished-at="2025-07-13T02:56:21 IST" duration-ms="6440" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ecwnbKXDl@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[EMFFKyxzC]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[valid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verfiy_Login_DDT -->
+        <test-method signature="verfiy_Login_DDT(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:TestCases.Login_DDT_003@9597028]" started-at="2025-07-13T02:56:21 IST" name="verfiy_Login_DDT" data-provider="LoginData" finished-at="2025-07-13T02:56:29 IST" duration-ms="7566" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[wnoxPWzHv@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[oukwhSTuu]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[valid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verfiy_Login_DDT -->
+        <test-method signature="verfiy_Login_DDT(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:TestCases.Login_DDT_003@9597028]" started-at="2025-07-13T02:56:29 IST" name="verfiy_Login_DDT" data-provider="LoginData" finished-at="2025-07-13T02:56:36 IST" duration-ms="7676" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sLCqIJzyf@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[bWkTPVMwI]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[valid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verfiy_Login_DDT -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestCases.Login_DDT_003@9597028]" started-at="2025-07-13T02:56:36 IST" name="tearDown" finished-at="2025-07-13T02:56:37 IST" duration-ms="437" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestCases.Login_DDT_003 -->
+      <class name="TestCases.TestCase_001">
+        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String)[pri:0, instance:TestCases.TestCase_001@1623b78d]" started-at="2025-07-13T02:53:59 IST" name="setUp" finished-at="2025-07-13T02:54:13 IST" duration-ms="13430" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verify_accountRegistration()[pri:0, instance:TestCases.TestCase_001@1623b78d]" started-at="2025-07-13T02:54:13 IST" name="verify_accountRegistration" finished-at="2025-07-13T02:54:27 IST" duration-ms="14180" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_accountRegistration -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestCases.TestCase_001@1623b78d]" started-at="2025-07-13T02:54:27 IST" name="tearDown" finished-at="2025-07-13T02:54:27 IST" duration-ms="399" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestCases.TestCase_001 -->
+    </test> <!-- Test1 -->
+  </suite> <!-- Suite -->
+</testng-results>

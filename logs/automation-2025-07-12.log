@@ -1,0 +1,52 @@
+23:47:34.690 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:47:34.698 [TestNG-tests-1] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+23:47:34.699 [TestNG-tests-1] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+23:47:34.708 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:47:34.710 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+23:47:34.711 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:47:34.717 [TestNG-tests-1] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+23:47:34.717 [TestNG-tests-1] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+23:47:37.107 [TestNG-tests-1] INFO  TestCases.Login_DDT_003 - Entering userdetails
+23:47:52.835 [TestNG-tests-1] INFO  TestCases.Login_DDT_003 - Entering userdetails
+23:47:59.872 [TestNG-tests-1] INFO  TestCases.Login_DDT_003 - Entering userdetails
+23:48:06.786 [TestNG-tests-1] INFO  TestCases.Login_DDT_003 - Entering userdetails
+23:48:13.717 [TestNG-tests-1] INFO  TestCases.Login_DDT_003 - Entering userdetails
+23:48:21.448 [TestNG-tests-1] INFO  TestCases.Login_DDT_003 - Entering userdetails
+23:48:28.119 [TestNG-tests-1] INFO  TestCases.Login_DDT_003 - Entering userdetails
+23:48:34.247 [TestNG-tests-1] INFO  TestCases.Login_DDT_003 - Entering userdetails
+23:48:40.654 [TestNG-tests-1] INFO  TestCases.Login_DDT_003 - Entering userdetails
+23:48:46.896 [TestNG-tests-1] INFO  TestCases.Login_DDT_003 - Entering userdetails
+23:48:54.731 [TestNG-tests-1] INFO  TestCases.Login_DDT_003 - Entering userdetails
+23:49:02.585 [TestNG-tests-1] INFO  TestCases.Login_DDT_003 - Entering userdetails
+23:49:09.491 [TestNG-tests-1] INFO  TestCases.Login_DDT_003 - Entering userdetails
+23:49:16.024 [TestNG-tests-1] INFO  TestCases.Login_DDT_003 - Entering userdetails
+23:50:25.627 [TestNG-tests-1] INFO  TestCases.TestCase_001 - Testing Started
+23:50:25.659 [TestNG-tests-1] ERROR TestCases.TestCase_001 - TestCase Completly failed
+23:50:25.677 [TestNG-tests-1] INFO  TestCases.LoginTestCase__002 - Testing Started
+23:50:25.679 [TestNG-tests-1] DEBUG TestCases.LoginTestCase__002 - Something went wrong
+23:51:16.911 [TestNG-tests-1] INFO  TestCases.TestCase_001 - Testing Started
+23:51:16.941 [TestNG-tests-1] ERROR TestCases.TestCase_001 - TestCase Completly failed
+23:51:16.949 [TestNG-tests-1] INFO  TestCases.LoginTestCase__002 - Testing Started
+23:51:16.949 [TestNG-tests-1] DEBUG TestCases.LoginTestCase__002 - Something went wrong
+23:52:46.272 [TestNG-tests-1] INFO  TestCases.TestCase_001 - Testing Started
+23:52:46.303 [TestNG-tests-1] ERROR TestCases.TestCase_001 - TestCase Completly failed
+23:52:46.317 [TestNG-tests-1] INFO  TestCases.LoginTestCase__002 - Testing Started
+23:52:46.318 [TestNG-tests-1] DEBUG TestCases.LoginTestCase__002 - Something went wrong
+23:53:54.785 [TestNG-tests-1] INFO  TestCases.TestCase_001 - Testing Started
+23:53:54.818 [TestNG-tests-1] ERROR TestCases.TestCase_001 - TestCase Completly failed
+23:53:54.831 [TestNG-tests-1] INFO  TestCases.LoginTestCase__002 - Testing Started
+23:53:54.832 [TestNG-tests-1] DEBUG TestCases.LoginTestCase__002 - Something went wrong
+23:54:59.102 [TestNG-tests-1] INFO  TestCases.TestCase_001 - Testing Started
+23:54:59.130 [TestNG-tests-1] ERROR TestCases.TestCase_001 - TestCase Completly failed
+23:56:43.345 [TestNG-tests-1] INFO  TestCases.TestCase_001 - Testing Started
+23:57:36.158 [TestNG-tests-1] INFO  TestCases.TestCase_001 - Testing Started
+23:57:47.595 [TestNG-tests-1] ERROR TestCases.TestCase_001 - TestCase Completly failed
+23:57:55.425 [TestNG-tests-1] INFO  TestCases.LoginTestCase__002 - Testing Started
+23:57:58.575 [TestNG-tests-1] INFO  TestCases.LoginTestCase__002 - Entering userdetails
+23:58:00.000 [TestNG-tests-1] INFO  TestCases.LoginTestCase__002 - User Logged in
+23:58:02.938 [TestNG-tests-1] INFO  TestCases.LoginTestCase__002 - Myaccount page exists
+23:58:05.045 [TestNG-tests-1] INFO  TestCases.LoginTestCase__002 - Logout button exists
+23:58:06.427 [TestNG-tests-1] INFO  TestCases.LoginTestCase__002 - User Successfully Loggged out from the page
+23:58:34.963 [TestNG-tests-2] INFO  TestCases.TestCase_001 - Testing Started
+23:58:35.205 [TestNG-tests-1] INFO  TestCases.TestCase_001 - Testing Started
+23:59:00.881 [TestNG-tests-2] INFO  TestCases.LoginTestCase__002 - Testing Started
