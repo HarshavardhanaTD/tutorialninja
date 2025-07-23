@@ -7,24 +7,21 @@
 	  	<parameter name="os" value="windows"></parameter>
     <classes>
       
-   	<!--  <class name="TestCases.TestCase_001"/>   --> 
-    	<class name="TestCases.LoginTestCase__002"/>
-		<!-- <class name="TestCases.Login_DDT_003"/>  --> 
-	<!--	<class name="TestCases.SearchProduct_004"/>   --> 
       
-	<!--
+      <!-- 	<class name="TestCases.Add_P_toWishlist__005"/>
+    <class name="TestCases.TestCase_001"/>
+    	<class name="TestCases.LoginTestCase__002"/>
+		<class name="TestCases.Login_DDT_003"/>  -->
+		<class name="TestCases.SearchProduct_004"/>
+      
+		<!--
 		<class name="TestCases.TestCase_001"/>
 		<class name="TestCases.Login_DDT_003"/>
 		<class name="TestCases.SearchProduct_004"/> 
 		<class name="TestCases.LoginTestCase__002"/>
-	-->
+		-->
 		
     </classes>
   </test> <!-- Test -->
-  
-  
-  
-  
-  
-  
+ 
 </suite> <!-- Suite -->

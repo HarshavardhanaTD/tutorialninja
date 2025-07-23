@@ -2,42 +2,42 @@
 <testng-results ignored="0" total="1" passed="0" failed="0" skipped="1">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-07-13T11:36:27 IST" name="Suite" finished-at="2025-07-13T11:36:28 IST" duration-ms="1592">
+  <suite started-at="2025-07-23T22:05:27 IST" name="Suite" finished-at="2025-07-23T22:05:28 IST" duration-ms="1590">
     <groups>
     </groups>
-    <test started-at="2025-07-13T11:36:27 IST" name="Test1" finished-at="2025-07-13T11:36:28 IST" duration-ms="1592">
+    <test started-at="2025-07-23T22:05:27 IST" name="Test1" finished-at="2025-07-23T22:05:28 IST" duration-ms="1590">
       <class name="TestCases.LoginTestCase__002">
-        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String)[pri:0, instance:TestCases.LoginTestCase__002@69e153c5]" started-at="2025-07-13T11:36:27 IST" name="setUp" finished-at="2025-07-13T11:36:28 IST" duration-ms="1509" status="FAIL">
+        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String)[pri:0, instance:TestCases.LoginTestCase__002@69e153c5]" started-at="2025-07-23T22:05:27 IST" name="setUp" finished-at="2025-07-23T22:05:28 IST" duration-ms="1519" status="FAIL">
           <params>
             <param index="0">
               <value>
-                <![CDATA[linux]]>
+                <![CDATA[windows]]>
               </value>
             </param>
             <param index="1">
               <value>
-                <![CDATA[edge]]>
+                <![CDATA[chrome]]>
               </value>
             </param>
           </params>
           <exception class="org.openqa.selenium.SessionNotCreatedException">
             <message>
               <![CDATA[Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure. 
-Host info: host: 'DESKTOP-G34M644', ip: '192.168.0.114'
+Host info: host: 'DESKTOP-G34M644', ip: '192.168.0.107'
 Build info: version: '4.27.0', revision: 'd6e718d'
 System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8.1'
 Driver info: org.openqa.selenium.remote.RemoteWebDriver
-Command: [null, newSession {capabilities=[Capabilities {browserName: MicrosoftEdge, platformName: linux}]}]
-Capabilities {browserName: MicrosoftEdge, platformName: linux}]]>
+Command: [null, newSession {capabilities=[Capabilities {browserName: chrome, platformName: Windows 11}]}]
+Capabilities {browserName: chrome, platformName: Windows 11}]]>
             </message>
             <full-stacktrace>
               <![CDATA[org.openqa.selenium.SessionNotCreatedException: Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure. 
-Host info: host: 'DESKTOP-G34M644', ip: '192.168.0.114'
+Host info: host: 'DESKTOP-G34M644', ip: '192.168.0.107'
 Build info: version: '4.27.0', revision: 'd6e718d'
 System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8.1'
 Driver info: org.openqa.selenium.remote.RemoteWebDriver
-Command: [null, newSession {capabilities=[Capabilities {browserName: MicrosoftEdge, platformName: linux}]}]
-Capabilities {browserName: MicrosoftEdge, platformName: linux}
+Command: [null, newSession {capabilities=[Capabilities {browserName: chrome, platformName: Windows 11}]}]
+Capabilities {browserName: chrome, platformName: Windows 11}
 at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:563)
 at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:245)
 at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:174)
@@ -108,25 +108,25 @@ at java.net.http/jdk.internal.net.http.PlainHttpConnection.connectAsync(PlainHtt
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="LoginAccount()[pri:0, instance:TestCases.LoginTestCase__002@69e153c5]" started-at="2025-07-13T11:36:28 IST" name="LoginAccount" finished-at="2025-07-13T11:36:28 IST" duration-ms="0" status="SKIP">
+        <test-method signature="LoginAccount()[pri:0, instance:TestCases.LoginTestCase__002@69e153c5]" started-at="2025-07-23T22:05:28 IST" name="LoginAccount" finished-at="2025-07-23T22:05:28 IST" duration-ms="0" status="SKIP">
           <exception class="org.openqa.selenium.SessionNotCreatedException">
             <message>
               <![CDATA[Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure. 
-Host info: host: 'DESKTOP-G34M644', ip: '192.168.0.114'
+Host info: host: 'DESKTOP-G34M644', ip: '192.168.0.107'
 Build info: version: '4.27.0', revision: 'd6e718d'
 System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8.1'
 Driver info: org.openqa.selenium.remote.RemoteWebDriver
-Command: [null, newSession {capabilities=[Capabilities {browserName: MicrosoftEdge, platformName: linux}]}]
-Capabilities {browserName: MicrosoftEdge, platformName: linux}]]>
+Command: [null, newSession {capabilities=[Capabilities {browserName: chrome, platformName: Windows 11}]}]
+Capabilities {browserName: chrome, platformName: Windows 11}]]>
             </message>
             <full-stacktrace>
               <![CDATA[org.openqa.selenium.SessionNotCreatedException: Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure. 
-Host info: host: 'DESKTOP-G34M644', ip: '192.168.0.114'
+Host info: host: 'DESKTOP-G34M644', ip: '192.168.0.107'
 Build info: version: '4.27.0', revision: 'd6e718d'
 System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8.1'
 Driver info: org.openqa.selenium.remote.RemoteWebDriver
-Command: [null, newSession {capabilities=[Capabilities {browserName: MicrosoftEdge, platformName: linux}]}]
-Capabilities {browserName: MicrosoftEdge, platformName: linux}
+Command: [null, newSession {capabilities=[Capabilities {browserName: chrome, platformName: Windows 11}]}]
+Capabilities {browserName: chrome, platformName: Windows 11}
 at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:563)
 at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:245)
 at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:174)
@@ -197,7 +197,7 @@ at java.net.http/jdk.internal.net.http.PlainHttpConnection.connectAsync(PlainHtt
           <reporter-output>
           </reporter-output>
         </test-method> <!-- LoginAccount -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestCases.LoginTestCase__002@69e153c5]" started-at="2025-07-13T11:36:28 IST" name="tearDown" finished-at="1970-01-01T05:30:00 IST" duration-ms="-1752386788788" status="SKIP">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestCases.LoginTestCase__002@69e153c5]" started-at="2025-07-23T22:05:28 IST" name="tearDown" finished-at="1970-01-01T05:30:00 IST" duration-ms="-1753288528759" status="SKIP">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->

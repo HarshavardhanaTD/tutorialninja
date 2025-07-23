@@ -53,4 +53,22 @@ public class HomePage extends BasePage
 	}
 
 	
+	
+	@FindBy(xpath="//*[@id=\"entry_217832\"]/a")
+	WebElement buttonShoByCategory;
+	
+	public void clickShopByCategory()
+	{
+		buttonShoByCategory.click();
+	}
+
+	@FindBy(xpath="//span[normalize-space()='Phone, Tablets & Ipod']")
+	WebElement buttonPhoneiPad;
+	
+	public void clickPhoneiPad()
+	{
+		buttonPhoneiPad.click();
+	}
+	
+	
 }

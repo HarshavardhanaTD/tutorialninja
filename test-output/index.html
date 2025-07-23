@@ -51,7 +51,7 @@
               <ul>
                 <li>
                   <a href="#" panel-name="test-xml-Suite" class="navigator-link ">
-                    <span>C:\Users\Harshavardhana T D\eclipse-workspace\com.tutorialninja\grid-docker.xml</span>
+                    <span>C:\Users\Harshavardhana T D\eclipse-workspace\com.tutorialninja\master.xml</span>
                   </a> <!-- navigator-link  -->
                 </li>
                 <li>
@@ -131,12 +131,12 @@
                   </a> <!-- LoginAccount -->
                   <span class="method-name">LoginAccount</span>
                   <div class="stack-trace">org.openqa.selenium.SessionNotCreatedException: Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure. 
-Host info: host: &apos;DESKTOP-G34M644&apos;, ip: &apos;192.168.0.114&apos;
+Host info: host: &apos;DESKTOP-G34M644&apos;, ip: &apos;192.168.0.107&apos;
 Build info: version: &apos;4.27.0&apos;, revision: &apos;d6e718d&apos;
 System info: os.name: &apos;Windows 11&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.8.1&apos;
 Driver info: org.openqa.selenium.remote.RemoteWebDriver
-Command: [null, newSession {capabilities=[Capabilities {browserName: MicrosoftEdge, platformName: linux}]}]
-Capabilities {browserName: MicrosoftEdge, platformName: linux}
+Command: [null, newSession {capabilities=[Capabilities {browserName: chrome, platformName: Windows 11}]}]
+Capabilities {browserName: chrome, platformName: Windows 11}
 	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:563)
 	at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:245)
 	at org.openqa.selenium.remote.RemoteWebDriver.&lt;init&gt;(RemoteWebDriver.java:174)
@@ -185,7 +185,7 @@ Caused by: java.nio.channels.ClosedChannelException
         </div> <!-- panel Suite -->
         <div panel-name="test-xml-Suite" class="panel">
           <div class="main-panel-header rounded-window-top">
-            <span class="header-content">C:\Users\Harshavardhana T D\eclipse-workspace\com.tutorialninja\grid-docker.xml</span>
+            <span class="header-content">C:\Users\Harshavardhana T D\eclipse-workspace\com.tutorialninja\master.xml</span>
           </div> <!-- main-panel-header rounded-window-top -->
           <div class="main-panel-content rounded-window-bottom">
             <pre>
@@ -193,8 +193,8 @@ Caused by: java.nio.channels.ClosedChannelException
 &lt;!DOCTYPE suite SYSTEM &quot;https://testng.org/testng-1.0.dtd&quot;&gt;
 &lt;suite name=&quot;Suite&quot; guice-stage=&quot;DEVELOPMENT&quot;&gt;
   &lt;test thread-count=&quot;5&quot; name=&quot;Test1&quot;&gt;
-    &lt;parameter name=&quot;os&quot; value=&quot;linux&quot;/&gt;
-    &lt;parameter name=&quot;browser&quot; value=&quot;edge&quot;/&gt;
+    &lt;parameter name=&quot;os&quot; value=&quot;windows&quot;/&gt;
+    &lt;parameter name=&quot;browser&quot; value=&quot;chrome&quot;/&gt;
     &lt;classes&gt;
       &lt;class name=&quot;TestCases.LoginTestCase__002&quot;/&gt;
     &lt;/classes&gt;
@@ -275,16 +275,16 @@ return data;
               <div class="configuration-class before">
                 <img src="failed.png">
                 </img>
-                <span class="method-name">setUp(linux, edge)</span>
+                <span class="method-name">setUp(windows, chrome)</span>
                 <span class="method-start">0 ms</span>
               </div> <!-- configuration-class before -->
               <div class="test-method">
                 <span class="method-name">LoginAccount</span>
-                <span class="method-start">1547 ms</span>
+                <span class="method-start">1545 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-class after">
                 <span class="method-name">tearDown</span>
-                <span class="method-start">1558 ms</span>
+                <span class="method-start">1555 ms</span>
               </div> <!-- configuration-class after -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->

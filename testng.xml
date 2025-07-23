@@ -7,9 +7,9 @@
 	  	<parameter name="os" value="windows"></parameter>
     <classes>
       
-    <!-- <class name="TestCases.TestCase_001"/>-->
-    <class name="TestCases.LoginTestCase__002"/>
-		 <!--<class name="TestCases.Login_DDT_003"/>  
+   <class name="TestCases.TestCase_001"/>
+    <!-- <class name="TestCases.LoginTestCase__002"/>
+		 <class name="TestCases.Login_DDT_003"/>  
 		<class name="TestCases.SearchProduct_004"/>-->
       
 		<!--

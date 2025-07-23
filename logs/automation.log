@@ -17,3 +17,44 @@
 02:56:16.573 [main] INFO  TestCases.Login_DDT_003 - Entering userdetails
 02:56:22.763 [main] INFO  TestCases.Login_DDT_003 - Entering userdetails
 02:56:30.583 [main] INFO  TestCases.Login_DDT_003 - Entering userdetails
+21:38:20.635 [main] INFO  TestCases.LoginTestCase__002 - Testing Started
+21:38:26.784 [main] INFO  TestCases.LoginTestCase__002 - Entering userdetails
+21:38:34.686 [main] INFO  TestCases.LoginTestCase__002 - User Logged in
+21:38:35.752 [main] INFO  TestCases.LoginTestCase__002 - Myaccount page exists
+21:38:41.663 [main] INFO  TestCases.LoginTestCase__002 - Logout button exists
+21:38:43.899 [main] INFO  TestCases.LoginTestCase__002 - User Successfully Loggged out from the page
+21:39:55.829 [main] INFO  TestCases.TestCase_001 - Testing Started
+21:40:34.005 [main] INFO  TestCases.LoginTestCase__002 - Testing Started
+21:40:38.724 [main] INFO  TestCases.LoginTestCase__002 - Entering userdetails
+21:40:40.168 [main] INFO  TestCases.LoginTestCase__002 - User Logged in
+21:40:46.963 [main] INFO  TestCases.LoginTestCase__002 - Myaccount page exists
+21:40:51.960 [main] INFO  TestCases.LoginTestCase__002 - Logout button exists
+21:40:54.303 [main] INFO  TestCases.LoginTestCase__002 - User Successfully Loggged out from the page
+21:53:46.698 [main] INFO  TestCases.TestCase_001 - Testing Started
+21:54:33.704 [main] INFO  TestCases.LoginTestCase__002 - Testing Started
+21:54:51.084 [main] INFO  TestCases.LoginTestCase__002 - Entering userdetails
+21:54:52.537 [main] INFO  TestCases.LoginTestCase__002 - User Logged in
+21:55:01.292 [main] INFO  TestCases.LoginTestCase__002 - Myaccount page exists
+21:55:07.438 [main] INFO  TestCases.LoginTestCase__002 - Logout button exists
+21:55:09.686 [main] INFO  TestCases.LoginTestCase__002 - User Successfully Loggged out from the page
+21:57:06.077 [main] INFO  TestCases.TestCase_001 - Testing Started
+21:57:56.843 [main] INFO  TestCases.TestCase_001 - Testing Started
+21:58:08.116 [main] ERROR TestCases.TestCase_001 - TestCase Completly failed
+21:58:28.991 [main] INFO  TestCases.LoginTestCase__002 - Testing Started
+21:58:35.215 [main] INFO  TestCases.LoginTestCase__002 - Entering userdetails
+21:58:42.558 [main] INFO  TestCases.LoginTestCase__002 - User Logged in
+21:58:43.615 [main] INFO  TestCases.LoginTestCase__002 - Myaccount page exists
+21:58:48.733 [main] INFO  TestCases.LoginTestCase__002 - Logout button exists
+21:58:50.210 [main] INFO  TestCases.LoginTestCase__002 - User Successfully Loggged out from the page
+22:03:05.313 [main] INFO  TestCases.LoginTestCase__002 - Testing Started
+22:03:13.255 [main] INFO  TestCases.LoginTestCase__002 - Entering userdetails
+22:03:28.941 [main] INFO  TestCases.LoginTestCase__002 - User Logged in
+22:03:30.010 [main] INFO  TestCases.LoginTestCase__002 - Myaccount page exists
+22:03:42.954 [main] INFO  TestCases.LoginTestCase__002 - Logout button exists
+22:03:45.535 [main] INFO  TestCases.LoginTestCase__002 - User Successfully Loggged out from the page
+22:09:49.823 [main] INFO  TestCases.LoginTestCase__002 - Testing Started
+22:09:57.412 [main] INFO  TestCases.LoginTestCase__002 - Entering userdetails
+22:09:58.831 [main] INFO  TestCases.LoginTestCase__002 - User Logged in
+22:10:05.259 [main] INFO  TestCases.LoginTestCase__002 - Myaccount page exists
+22:10:10.550 [main] INFO  TestCases.LoginTestCase__002 - Logout button exists
+22:10:13.629 [main] INFO  TestCases.LoginTestCase__002 - User Successfully Loggged out from the page
